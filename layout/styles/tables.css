@@ -1,0 +1,16 @@
+@charset "utf-8";
+/*
+Template Name: FusionEdge
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+File: Tables CSS
+*/
+
+table{width:100%; border-collapse:collapse; table-layout:auto; vertical-align:top; margin-bottom:15px; border:0px solid #FF0000;}
+table thead th{color:#FF0000; background-color:#FFFFFF; border:0px solid #FF0000; border-collapse:collapse; text-align:center; table-layout:auto; vertical-align:middle;}
+table tbody td{vertical-align:top; border-collapse:collapse; border-left:0px solid #FF0000; border-right:0px solid #FF0000;}
+table thead th, table tbody td{padding:0px; border-collapse:collapse;}
+table tbody tr.light{color:#FFFFFF; background-color:#F7F7F7;}
+table tbody tr.dark{color:#FFFFFF; background-color:#E8E8E8;}
