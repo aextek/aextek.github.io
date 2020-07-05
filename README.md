@@ -15,3 +15,8 @@ v.1.2a
 Removed some redundant code 
 Fixed some span issues
 Updated favicons
+
+v.1.3a
+Removed some leftover html files
+Fixed some element spacing and sizes
+Added social media and contact links
