@@ -47,4 +47,6 @@ Made it to beta!
 1.1b
 Added gitignore to streamline branch updates
 Updated home, about and 404 pages 
-Modified CSS
+Modified layout and slider CSS
+Added functionality to more elements
+Checked sitemap is working as a whole
