@@ -33,3 +33,9 @@ Updated Breakout banner
 Updated Meme Chaser banner
 Removed more useless files
 Added welcome banner
+Fixed some page and image refs
+
+v1.0b
+Finalized Homepage
+Completed About page
+Completed 404 page
