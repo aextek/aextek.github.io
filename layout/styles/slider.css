@@ -16,4 +16,4 @@ File: Slider CSS
 #container #featured_slide_ ul li figure figcaption{position:absolute; display:none; bottom:0; left:0; width:910px; height:inherit; padding:15px; color:#FFFFFF; background-color:#FF0000; opacity:0.7;}
 #container #featured_slide_ ul li figure figcaption h2{margin:0 0 5px 0;}
 #container #featured_slide_ ul li figure figcaption p{margin:0; padding:0;}
-#container #featured_slide_ ul li figure figcaption a{color:#FFFFFF; background-color:#000000;}
+#container #featured_slide_ ul li figure figcaption a{color:#FFFFFF;}

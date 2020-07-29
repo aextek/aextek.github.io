@@ -1,6 +1,7 @@
-Website Source Files and Code
+Site Resources and Code
 
-v.1.0a 
+v.1.0a
+Alpha concept
 Initial 404 Page
 
 v.1.1a 
@@ -40,4 +41,10 @@ Finalized Homepage
 Completed About page
 Completed 404 page
 Fixed more page resource refs
-Updated CSS
+Modified CSS
+Made it to beta!
+
+1.1b
+Added gitignore to streamline branch updates
+Updated home, about and 404 pages 
+Modified CSS
