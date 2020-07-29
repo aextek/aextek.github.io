@@ -39,5 +39,5 @@ v1.0b
 Finalized Homepage
 Completed About page
 Completed 404 page
-Fixed page refs
+Fixed some page refs
 Updated CSS
