@@ -40,3 +40,4 @@ Finalized Homepage
 Completed About page
 Completed 404 page
 Modified page refs
+Updated CSS
